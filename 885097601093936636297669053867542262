@@ -1,11 +1,11 @@
 {
     "title": "0x0000000000aa76ae5122190c59262adba2d6c6f6",
     "description": "Vanity Account",
-    "image": "https://vaac-base.solymus.com/imgs/885097601093936636297669053867542262.png",
+    "image": "https://vaac-base.solymus.com/imgs/0x0000000000Aa76ae5122190C59262aDba2D6C6f6.png",
     "attributes": [
       {
         "trait_type": "address", 
-        "value": "0x0000000000aa76ae5122190c59262adba2d6c6f6"
+        "value": "0x0000000000Aa76ae5122190C59262aDba2D6C6f6"
       }, 
       {
         "trait_type": "score", 
